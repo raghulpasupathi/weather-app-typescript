@@ -145,4 +145,5 @@ export const DetailValue = styled.span``;
 export const ErrorMessage = styled.div`
 text-align: center;
 color: red;
-margin-bottom: 1rem`;
+margin-top: 1rem;
+margin-bottom: auto;`;

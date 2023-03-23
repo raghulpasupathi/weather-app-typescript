@@ -66,6 +66,7 @@ function App() {
       setLoading(false);
       if(error) setError('');
     } catch (error) {
+      setWeatherData(null);
       setError('Unable to fetch weather data');
       setLoading(false);
     }
