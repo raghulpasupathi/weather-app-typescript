@@ -1,2 +1,3 @@
-# weather-app-typescript
-simple weather forceast app using openweatherAPI
+# Simple weather app using Typescript
+
+# Use: react hooks , axios , typescript , react styled component 
